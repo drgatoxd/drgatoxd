@@ -11,7 +11,7 @@
 - 🪐 Le sé al HTML, CSS y JS
 - 📺 Hago videos para YouTube
 - 🛖 Tengo un [servidor de Discord](https://drgato.ml/discord) por si les interesa entrar :)
-- ⚛️ Intenté aprender React pero no pude xd
+- ⚛️ ¡Aprendí React! nwn.
 - 🙊 Hablo más por chat que en IRL
 - 💎 Me quiero comprar un dominio .pe
 

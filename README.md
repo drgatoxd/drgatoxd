@@ -7,10 +7,10 @@
 <img src="https://avatars.githubusercontent.com/u/43690887?s=200&u=059915dea147dfda41abb3a2064c13305634bc62&v=4" align="right" alt="discord pfp"/>
 
 - 🚀 Tengo 14 años y soy de Perú
-- 🌛 Trabajo en [LunarBot](https://dsc.gg/lunarbotxd), un bot escrito en TypeScript
-- 🪐 Le sé al HTML, CSS y JS
+- 🌛 LunarBot ripeo, pero sigo haciendo bots xd
+- 🪐 Puedo hacer una página con HTML, CSS y JS
 - 📺 Hago videos para YouTube
-- 🛖 Tengo un [servidor de Discord](https://drgato.ml/discord) por si les interesa entrar :)
+- 🛖 Tengo un [servidor de Discord](https://discord.gg/sncWxDnAk2) por si les interesa entrar :)
 - ⚛️ ¡Aprendí React! nwn.
 - 🙊 Hablo más por chat que en IRL
 - 💎 Me quiero comprar un dominio .pe

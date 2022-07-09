@@ -6,7 +6,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/43690887?s=200&u=059915dea147dfda41abb3a2064c13305634bc62&v=4" align="right" alt="discord pfp"/>
 
-- 🚀 Tengo 14 años y soy de Perú
+- 🚀 Tengo 14 años y soy de Chile
 - 🌛 LunarBot ripeo, pero sigo haciendo bots xd
 - 🪐 Puedo hacer una página con HTML, CSS y JS
 - 📺 Hago videos para YouTube
